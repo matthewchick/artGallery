@@ -17,6 +17,7 @@
 		CE9C29A92329AB740055B3E6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE9C29A72329AB740055B3E6 /* Main.storyboard */; };
 		CE9C29AE2329AB750055B3E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE9C29AC2329AB750055B3E6 /* LaunchScreen.storyboard */; };
 		CE9C29B42329AC060055B3E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE9C29922329AA5E0055B3E6 /* Assets.xcassets */; };
+		CE9C29BA2329CFF50055B3E6 /* LoginStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE9C29B92329CFF50055B3E6 /* LoginStoryboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		CE9C29A82329AB740055B3E6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CE9C29AD2329AB750055B3E6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE9C29AF2329AB750055B3E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE9C29B92329CFF50055B3E6 /* LoginStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LoginStoryboard.storyboard; path = "../../../../../../../../../../../Users/jeremychik/Downloads/FinalSourceArtable/Artable Source/Artable/Storyboards/LoginStoryboard.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 		CE9C298A2329AA5C0055B3E6 /* ArtGallery */ = {
 			isa = PBXGroup;
 			children = (
+				CE9C29B92329CFF50055B3E6 /* LoginStoryboard.storyboard */,
 				CE9C298B2329AA5C0055B3E6 /* AppDelegate.swift */,
 				CE9C298D2329AA5C0055B3E6 /* ViewController.swift */,
 				CE9C298F2329AA5C0055B3E6 /* Main.storyboard */,
@@ -186,6 +189,7 @@
 				CE9C29962329AA5E0055B3E6 /* LaunchScreen.storyboard in Resources */,
 				CE9C29932329AA5E0055B3E6 /* Assets.xcassets in Resources */,
 				CE9C29912329AA5C0055B3E6 /* Main.storyboard in Resources */,
+				CE9C29BA2329CFF50055B3E6 /* LoginStoryboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
